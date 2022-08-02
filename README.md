@@ -1,2 +1,1 @@
-# React
- remove and random color
+# react-theory
